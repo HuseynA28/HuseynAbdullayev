@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @HuseynAbdullayev
-- 👀 I’m interested in 
 - 🌱 I’m currently learning Data Analysis, Data Science and Artificial Intelligence
 - 📫  You can reach me on Linkedin ( https://www.linkedin.com/in/huseyn-abdullayev-566a74123/) 
 
